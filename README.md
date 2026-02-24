@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # RedAid 🩸
 
 ### A Life-Saving Blood Donation Platform
@@ -108,7 +107,5 @@ Follow these steps to run the project locally:
    npm start
    npm run dev
    ```
-=======
 # RedAid
 A React app that allows users to view, filter, and request blood donors from a dataset.
->>>>>>> 1fd7098c0c7dec1f9cb242809ce4c0381bfea37d
