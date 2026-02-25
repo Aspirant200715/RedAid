@@ -4,7 +4,7 @@
 
 **Developed by:** Soham Gangopadhyay
 
-**🌐 Live Demo:** [View Deployed Application](<INSERT_DEPLOYED_LINK_HERE>)
+**🌐 Live Demo:** [View Deployed Application](https://redaid.vercel.app/)
 
 ---
 
@@ -107,4 +107,3 @@ Follow these steps to run the project locally:
    npm start
    npm run dev
    ```
-
