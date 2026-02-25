@@ -5,7 +5,7 @@ import Home from "./components/Home";
 import Donors from "./components/Donors";
 import Favorites from "./components/Favorites";
 import { AnimatePresence, motion } from "framer-motion";
-import { useLocation,Outlet } from "react-router-dom";
+import { useLocation } from "react-router-dom";
 
 function App() {
   const location = useLocation();

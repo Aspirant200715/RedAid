@@ -2,7 +2,7 @@ import react from "react";
 import { Link } from "react-router-dom";
 import logo from "../assets/logo.png";
 
-function Navbar({ favorites, darkMode, setDarkMode }) {
+function Navbar({ favorites }) {
   return (
     <nav className="bg-red-600 hover:bg-red-700 transition-colors duration-300 text-white shadow-md">
       <div className="max-w-6xl mx-auto px-4 py-4 flex justify-between items-center ">
