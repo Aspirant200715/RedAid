@@ -107,5 +107,4 @@ Follow these steps to run the project locally:
    npm start
    npm run dev
    ```
-# RedAid
-A React app that allows users to view, filter, and request blood donors from a dataset.
+
